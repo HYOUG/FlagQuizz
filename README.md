@@ -6,7 +6,7 @@ A simple **quizz discord bot** based on countries and other states flags using t
 * Invite the bot onto your server with this [**link**](https://discord.com/api/oauth2/authorize?client_id=714888550667124766&permissions=116800&scope=bot).
 
 * Start a quizz :
-   > &start
+   > &quizz
 
 * Eventually, get some help about the commands :
    > &help
