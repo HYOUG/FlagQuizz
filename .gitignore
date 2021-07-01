@@ -1,0 +1,5 @@
+# Bot's token
+token.txt
+
+# Byte-compiled
+__pycache__/
